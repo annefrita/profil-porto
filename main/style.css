@@ -1,0 +1,20 @@
+.background {
+    height: 5000px;
+}
+
+.navbar {
+    background-color: darkcyan;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #b5f7f7;
+}
+
+.footer {
+    background-color: darkcyan;
+}
+
+.footer span {
+    color: white;
+}
